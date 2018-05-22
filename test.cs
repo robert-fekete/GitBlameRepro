@@ -2491,7 +2491,7 @@ namespace Runner
             int i2483 = 10483;
             int i2484 = 10484;
             int i2485 = 10485;
-            int i2486 = 2486;
+            int i2486 = 10486;
             int i2487 = 2487;
             int i2488 = 2488;
             int i2489 = 2489;
