@@ -293,7 +293,7 @@ namespace Runner
             int i285 = 8285;
             int i286 = 8286;
             int i287 = 8287;
-            int i288 = 288;
+            int i288 = 8288;
             int i289 = 289;
             int i290 = 290;
             int i291 = 291;
