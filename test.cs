@@ -611,7 +611,7 @@ namespace Runner
             int i603 = 8603;
             int i604 = 8604;
             int i605 = 8605;
-            int i606 = 606;
+            int i606 = 8606;
             int i607 = 607;
             int i608 = 608;
             int i609 = 609;
