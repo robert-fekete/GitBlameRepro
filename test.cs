@@ -2677,7 +2677,7 @@ namespace Runner
             int i2669 = 10669;
             int i2670 = 10670;
             int i2671 = 10671;
-            int i2672 = 2672;
+            int i2672 = 10672;
             int i2673 = 2673;
             int i2674 = 2674;
             int i2675 = 2675;
