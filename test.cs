@@ -6087,7 +6087,7 @@ namespace Runner
             int i6079 = 14079;
             int i6080 = 14080;
             int i6081 = 14081;
-            int i6082 = 6082;
+            int i6082 = 14082;
             int i6083 = 6083;
             int i6084 = 6084;
             int i6085 = 6085;
