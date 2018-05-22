@@ -477,7 +477,7 @@ namespace Runner
             int i469 = 8469;
             int i470 = 8470;
             int i471 = 8471;
-            int i472 = 472;
+            int i472 = 8472;
             int i473 = 473;
             int i474 = 474;
             int i475 = 475;
