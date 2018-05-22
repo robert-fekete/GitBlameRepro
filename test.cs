@@ -771,7 +771,7 @@ namespace Runner
             int i763 = 8763;
             int i764 = 8764;
             int i765 = 8765;
-            int i766 = 766;
+            int i766 = 8766;
             int i767 = 767;
             int i768 = 768;
             int i769 = 769;
