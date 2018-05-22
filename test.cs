@@ -2011,7 +2011,7 @@ namespace Runner
             int i2003 = 10003;
             int i2004 = 10004;
             int i2005 = 10005;
-            int i2006 = 2006;
+            int i2006 = 10006;
             int i2007 = 2007;
             int i2008 = 2008;
             int i2009 = 2009;
