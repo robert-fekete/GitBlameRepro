@@ -577,7 +577,7 @@ namespace Runner
             int i569 = 8569;
             int i570 = 8570;
             int i571 = 8571;
-            int i572 = 572;
+            int i572 = 8572;
             int i573 = 573;
             int i574 = 574;
             int i575 = 575;
