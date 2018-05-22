@@ -530,7 +530,7 @@ namespace Runner
             int i522 = 8522;
             int i523 = 8523;
             int i524 = 8524;
-            int i525 = 525;
+            int i525 = 8525;
             int i526 = 526;
             int i527 = 527;
             int i528 = 528;
