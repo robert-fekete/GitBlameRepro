@@ -1187,7 +1187,7 @@ namespace Runner
             int i1179 = 9179;
             int i1180 = 9180;
             int i1181 = 9181;
-            int i1182 = 1182;
+            int i1182 = 9182;
             int i1183 = 1183;
             int i1184 = 1184;
             int i1185 = 1185;
