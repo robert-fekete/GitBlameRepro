@@ -1993,7 +1993,7 @@ namespace Runner
             int i1985 = 9985;
             int i1986 = 9986;
             int i1987 = 9987;
-            int i1988 = 1988;
+            int i1988 = 9988;
             int i1989 = 1989;
             int i1990 = 1990;
             int i1991 = 1991;
