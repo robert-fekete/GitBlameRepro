@@ -7011,7 +7011,7 @@ namespace Runner
             int i7003 = 15003;
             int i7004 = 15004;
             int i7005 = 15005;
-            int i7006 = 7006;
+            int i7006 = 15006;
             int i7007 = 7007;
             int i7008 = 7008;
             int i7009 = 7009;
