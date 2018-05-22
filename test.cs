@@ -494,7 +494,7 @@ namespace Runner
             int i486 = 8486;
             int i487 = 8487;
             int i488 = 8488;
-            int i489 = 489;
+            int i489 = 8489;
             int i490 = 490;
             int i491 = 491;
             int i492 = 492;
