@@ -1547,7 +1547,7 @@ namespace Runner
             int i1539 = 9539;
             int i1540 = 9540;
             int i1541 = 9541;
-            int i1542 = 1542;
+            int i1542 = 9542;
             int i1543 = 1543;
             int i1544 = 1544;
             int i1545 = 1545;
