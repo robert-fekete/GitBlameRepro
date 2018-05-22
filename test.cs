@@ -2829,7 +2829,7 @@ namespace Runner
             int i2821 = 10821;
             int i2822 = 10822;
             int i2823 = 10823;
-            int i2824 = 2824;
+            int i2824 = 10824;
             int i2825 = 2825;
             int i2826 = 2826;
             int i2827 = 2827;
