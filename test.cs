@@ -6006,7 +6006,7 @@ namespace Runner
             int i5998 = 13998;
             int i5999 = 13999;
             int i6000 = 14000;
-            int i6001 = 6001;
+            int i6001 = 14001;
             int i6002 = 6002;
             int i6003 = 6003;
             int i6004 = 6004;
