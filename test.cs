@@ -1701,7 +1701,7 @@ namespace Runner
             int i1693 = 9693;
             int i1694 = 9694;
             int i1695 = 9695;
-            int i1696 = 1696;
+            int i1696 = 9696;
             int i1697 = 1697;
             int i1698 = 1698;
             int i1699 = 1699;
