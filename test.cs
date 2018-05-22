@@ -3847,7 +3847,7 @@ namespace Runner
             int i3839 = 11839;
             int i3840 = 11840;
             int i3841 = 11841;
-            int i3842 = 3842;
+            int i3842 = 11842;
             int i3843 = 3843;
             int i3844 = 3844;
             int i3845 = 3845;
