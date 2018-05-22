@@ -317,7 +317,7 @@ namespace Runner
             int i309 = 8309;
             int i310 = 8310;
             int i311 = 8311;
-            int i312 = 312;
+            int i312 = 8312;
             int i313 = 313;
             int i314 = 314;
             int i315 = 315;
