@@ -367,7 +367,7 @@ namespace Runner
             int i359 = 8359;
             int i360 = 8360;
             int i361 = 8361;
-            int i362 = 362;
+            int i362 = 8362;
             int i363 = 363;
             int i364 = 364;
             int i365 = 365;
