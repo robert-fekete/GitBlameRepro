@@ -4527,7 +4527,7 @@ namespace Runner
             int i4519 = 12519;
             int i4520 = 12520;
             int i4521 = 12521;
-            int i4522 = 4522;
+            int i4522 = 12522;
             int i4523 = 4523;
             int i4524 = 4524;
             int i4525 = 4525;
