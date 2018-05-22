@@ -400,7 +400,7 @@ namespace Runner
             int i392 = 8392;
             int i393 = 8393;
             int i394 = 8394;
-            int i395 = 395;
+            int i395 = 8395;
             int i396 = 396;
             int i397 = 397;
             int i398 = 398;
