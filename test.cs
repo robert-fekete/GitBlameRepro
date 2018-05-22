@@ -11,7 +11,7 @@ namespace Runner
             int i3 = 8003;
             int i4 = 8004;
             int i5 = 8005;
-            int i6 = 6;
+            int i6 = 8006;
             int i7 = 7;
             int i8 = 8;
             int i9 = 9;
