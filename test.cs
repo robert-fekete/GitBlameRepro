@@ -2235,7 +2235,7 @@ namespace Runner
             int i2227 = 10227;
             int i2228 = 10228;
             int i2229 = 10229;
-            int i2230 = 2230;
+            int i2230 = 10230;
             int i2231 = 2231;
             int i2232 = 2232;
             int i2233 = 2233;
