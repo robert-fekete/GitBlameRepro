@@ -510,7 +510,7 @@ namespace Runner
             int i502 = 8502;
             int i503 = 8503;
             int i504 = 8504;
-            int i505 = 505;
+            int i505 = 8505;
             int i506 = 506;
             int i507 = 507;
             int i508 = 508;
