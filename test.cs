@@ -3987,7 +3987,7 @@ namespace Runner
             int i3979 = 11979;
             int i3980 = 11980;
             int i3981 = 11981;
-            int i3982 = 3982;
+            int i3982 = 11982;
             int i3983 = 3983;
             int i3984 = 3984;
             int i3985 = 3985;
