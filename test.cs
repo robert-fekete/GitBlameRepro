@@ -2072,7 +2072,7 @@ namespace Runner
             int i2064 = 10064;
             int i2065 = 10065;
             int i2066 = 10066;
-            int i2067 = 2067;
+            int i2067 = 10067;
             int i2068 = 2068;
             int i2069 = 2069;
             int i2070 = 2070;
