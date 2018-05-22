@@ -1981,7 +1981,7 @@ namespace Runner
             int i1973 = 9973;
             int i1974 = 9974;
             int i1975 = 9975;
-            int i1976 = 1976;
+            int i1976 = 9976;
             int i1977 = 1977;
             int i1978 = 1978;
             int i1979 = 1979;
