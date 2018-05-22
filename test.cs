@@ -1493,7 +1493,7 @@ namespace Runner
             int i1485 = 9485;
             int i1486 = 9486;
             int i1487 = 9487;
-            int i1488 = 1488;
+            int i1488 = 9488;
             int i1489 = 1489;
             int i1490 = 1490;
             int i1491 = 1491;
