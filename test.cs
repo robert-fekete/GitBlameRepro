@@ -157,7 +157,7 @@ namespace Runner
             int i149 = 8149;
             int i150 = 8150;
             int i151 = 8151;
-            int i152 = 152;
+            int i152 = 8152;
             int i153 = 153;
             int i154 = 154;
             int i155 = 155;
